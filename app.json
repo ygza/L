@@ -1,9 +1,9 @@
 {
-  "name": "IQTHON TELETHON ARAB",
-  "description": "اهلا بك في تليثون العرب الأصلي { @iqthon }",
+  "name": "ALABQRI",
+  "description": "اهلا بك في سورس العبقري الأصلي { @H1HH2 }",
   "logo": "https://telegra.ph/file/aa0ee1b06ddcdcb40189a.jpg",
   "keywords": ["plugin","modular","productivity"],
-  "repository": "https://github.com/help-iq2/telethon",
+  "repository": "https://github.com/ygza/L",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -42,7 +42,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتغيرة",
-      "value": "TelethonAr",
+      "value": "ygza",
       "required": false
     }
   },
