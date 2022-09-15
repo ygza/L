@@ -1,4 +1,4 @@
-FROM telethonArab/telethonAr:alpine
+FROM ygza/ha:alpine
 
 #clonning repo 
 RUN git clone https://github.com/ygza/ha/tree/master.git /root/Arab
